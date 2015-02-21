@@ -1,0 +1,41 @@
+Input high temp for January: 40
+Input low temp for January: -10
+Input high temp for February: 55
+Input low temp for February: 25
+Input high temp for March: 60
+Input low temp for March: 40
+Input high temp for April: 88
+Input low temp for April: 20
+Input high temp for May: 72
+Input low temp for May: 55
+Input high temp for June: 95
+Input low temp for June: 80
+Input high temp for July: 97
+Input low temp for July: 87
+Input high temp for August: 110
+Input low temp for August: 98
+Input high temp for September: 79
+Input low temp for September: 68
+Input high temp for October: 31
+Input low temp for October: 30
+Input high temp for November: 58
+Input low temp for November: -25
+Input high temp for December: 32
+Input low temp for December: -20
+
+January has a High of 40 and Low of -10
+February has a High of 55 and Low of 25
+March has a High of 60 and Low of 40
+April has a High of 88 and Low of 20
+May has a High of 72 and Low of 55
+June has a High of 95 and Low of 80
+July has a High of 97 and Low of 87
+August has a High of 110 and Low of 98
+September has a High of 79 and Low of 68
+October has a High of 31 and Low of 30
+November has a High of 58 and Low of -25
+December has a High of 32 and Low of -20
+the average high temp is 68.08333333333333
+the average low temp is 37.333333333333336
+The highest temp is 110 for August
+The lowest temp is -25 for November
